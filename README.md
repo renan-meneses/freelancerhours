@@ -3,6 +3,7 @@
 <p align="center">
   <img alt="PHP version" src="https://img.shields.io/static/v1?label=php&message=8.2&color=18181B&labelColor=5354FD">
     <img alt="Laravel version" src="https://img.shields.io/static/v1?label=laravel&message=11.9&color=18181B&labelColor=5354FD">
+      <img alt="Docker version" src="https://img.shields.io/static/v1?label=docker&message=27.3.1&color=18181B&labelColor=5354FD">
 </p>
 
 ## Projeto FreelanceHours
